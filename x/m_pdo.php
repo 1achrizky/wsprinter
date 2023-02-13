@@ -5,10 +5,10 @@ require_once('site_helper.php');
 class m_pdo{
   protected $conf_db_pdo = [
   	"main" => [
-  		"hostname" => "192.xxx.xxx.xxx",
-	    "dbname" 	 => "",
-	    "username" => "",
-	    "password" => "",
+  		"hostname" => "192.168.100.19",
+	    "dbname" 	 => "AXETADEV",
+	    "username" => "sa",
+	    "password" => "albolabris",
   	],
   ];
 
